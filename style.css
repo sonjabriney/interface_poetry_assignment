@@ -1,0 +1,59 @@
+video {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+}
+
+img {
+	width: 90%;
+	height: 100%;
+	position: relative;
+	position: fixed;
+	z-index: 1;
+}
+
+a {
+	position: fixed;
+	z-index: 4;
+}
+
+.link1 {
+	opacity: 0.0;
+	width: 140px;
+	height: 120px;
+	position: absolute;
+	z-index: 2;
+	top: 75px;
+	left: 40px;
+}
+
+.link2 {
+	opacity: 0.0;
+	width: 100px;
+	height: 100px;
+	top: 215px;
+	left: 410px;
+	position: absolute;
+	z-index: 3;
+}
+
+.link3 {
+	opacity: 0.0;
+	width: 110px;
+	height: 120px;
+	position: absolute;
+	top: 40px;
+	left: 765px;
+}
+
+.link4 {
+	opacity: 0.0;
+	width: 100px;
+	height: 150px;
+	position: absolute;
+	top: 110px;
+	left: 1117px;
+}
+
